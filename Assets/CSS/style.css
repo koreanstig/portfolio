@@ -63,6 +63,11 @@ h5 {
 }
 
 .projectCard {
-    box-shadow: 0 0 2.5rem -5px silver;
+    box-shadow: 0 0 2.5rem -5px black;
     padding-bottom: 3rem;
+}
+
+.projectCard:hover {
+    padding: .5rem;
+    border-radius: 3rem;
 }
