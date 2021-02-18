@@ -36,12 +36,22 @@ h3 {
     margin-right: 2rem;
 }
 
+#githublogo:hover {
+    padding: .5rem;
+    border-radius: 3rem;
+}
+
 #linkedlogo {
     height: 5rem;
     width: 5rem;
     opacity: 50%;
     cursor: pointer;
     margin-left: 2rem;
+}
+
+#linkedlogo:hover {
+    padding: .5rem;
+    border-radius: 3rem;
 }
 
 .projectContainer {
