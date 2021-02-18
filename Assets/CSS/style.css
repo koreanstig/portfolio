@@ -1,0 +1,65 @@
+h1 {
+    padding-top: 1rem;
+    padding-bottom: .5rem;
+}
+
+h3 {
+    padding-bottom: 1rem;
+}
+
+.divSpace {
+    height: 8rem;
+}
+
+#div2 {
+    text-align: center;
+    background-color: #9dad7f;
+    font-family: 'Quicksand', sans-serif;
+    color: white; 
+}
+
+.myInfo {
+    padding-top: 11rem;
+}
+
+#davidpic {
+    border-radius: 50%;
+    padding-bottom: 2rem;
+}
+
+#githublogo {
+    height: 5rem;
+    width: 7rem;
+    opacity: 50%;
+    cursor: pointer;
+}
+
+#linkedlogo {
+    height: 5rem;
+    width: 7rem;
+    opacity: 50%;
+    cursor: pointer;
+}
+
+.projectContainer {
+    background-color: #9dad7f;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+.iconimgs {
+    height: 10rem;
+    width: 10rem;
+    opacity: 50%;
+    padding-bottom: 1rem;
+}
+
+h5 {
+    padding-top: 1.5rem;
+}
+
+.projectCard {
+    box-shadow: 0 0 2.5rem -5px silver;
+    padding-bottom: 3rem;
+}
