@@ -19,7 +19,7 @@ h3 {
 }
 
 .myInfo {
-    padding-top: 11rem;
+    padding-top: 13rem;
 }
 
 #davidpic {
@@ -29,16 +29,19 @@ h3 {
 
 #githublogo {
     height: 5rem;
-    width: 7rem;
+    width: 5rem;
     opacity: 50%;
     cursor: pointer;
+    margin-left: 3rem;
+    margin-right: 2rem;
 }
 
 #linkedlogo {
     height: 5rem;
-    width: 7rem;
+    width: 5rem;
     opacity: 50%;
     cursor: pointer;
+    margin-left: 2rem;
 }
 
 .projectContainer {
